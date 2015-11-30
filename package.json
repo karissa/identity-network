@@ -1,0 +1,25 @@
+{
+  "name": "identity-network",
+  "version": "1.0.0",
+  "description": "create a network of your online identity",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karissa/identity-network.git"
+  },
+  "keywords": [
+    "identity",
+    "visualization",
+    "network",
+    "graph"
+  ],
+  "author": "Karissa McKelvey <karissa@karissamck.com> (http://karissamck.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karissa/identity-network/issues"
+  },
+  "homepage": "https://github.com/karissa/identity-network#readme"
+}
